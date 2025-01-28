@@ -5,7 +5,10 @@ A pacman game written by Allegro5 and C.
 ## Main Scene
 
 In the Main Scene, players can access the Setting Scene by clicking the icon in the upper-right corner of the screen or start the game by pressing `ENTER` on the keyboard.
-![Main Scene](https://github.com/AppleChen17/I2P1_Pacman/blob/main/main_scene.png?raw=true)
+
+<p>
+  <img src="./Scene_photo/main_scene.png">
+</p>
 
 ## Setting Scene
 
