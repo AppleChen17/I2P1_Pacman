@@ -1,6 +1,6 @@
 # I2P1_Pacman
 
-A pacman game written by Allegro5 and C.
+A pacman game written by C.
 
 ## Main Scene
 
